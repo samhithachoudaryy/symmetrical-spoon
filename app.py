@@ -174,4 +174,3 @@ if st.button("Fetch News"):
 
     else:
         st.warning("No articles found.")
-```
